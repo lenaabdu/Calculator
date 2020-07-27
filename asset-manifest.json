@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/%20//lenaabdu.github.io/Calculator/static/css/main.9be7f010.chunk.css",
-    "main.js": "/%20//lenaabdu.github.io/Calculator/static/js/main.24827e16.chunk.js",
-    "main.js.map": "/%20//lenaabdu.github.io/Calculator/static/js/main.24827e16.chunk.js.map",
-    "runtime-main.js": "/%20//lenaabdu.github.io/Calculator/static/js/runtime-main.4f2fc1ba.js",
-    "runtime-main.js.map": "/%20//lenaabdu.github.io/Calculator/static/js/runtime-main.4f2fc1ba.js.map",
-    "static/js/2.6912228e.chunk.js": "/%20//lenaabdu.github.io/Calculator/static/js/2.6912228e.chunk.js",
-    "static/js/2.6912228e.chunk.js.map": "/%20//lenaabdu.github.io/Calculator/static/js/2.6912228e.chunk.js.map",
-    "index.html": "/%20//lenaabdu.github.io/Calculator/index.html",
-    "precache-manifest.3b10880a09523200e2f87c78ffe18c21.js": "/%20//lenaabdu.github.io/Calculator/precache-manifest.3b10880a09523200e2f87c78ffe18c21.js",
-    "service-worker.js": "/%20//lenaabdu.github.io/Calculator/service-worker.js",
-    "static/css/main.9be7f010.chunk.css.map": "/%20//lenaabdu.github.io/Calculator/static/css/main.9be7f010.chunk.css.map",
-    "static/js/2.6912228e.chunk.js.LICENSE.txt": "/%20//lenaabdu.github.io/Calculator/static/js/2.6912228e.chunk.js.LICENSE.txt"
+    "main.css": "/lenaabdu/Calculator.git/static/css/main.9be7f010.chunk.css",
+    "main.js": "/lenaabdu/Calculator.git/static/js/main.592fdec3.chunk.js",
+    "main.js.map": "/lenaabdu/Calculator.git/static/js/main.592fdec3.chunk.js.map",
+    "runtime-main.js": "/lenaabdu/Calculator.git/static/js/runtime-main.3c5fc558.js",
+    "runtime-main.js.map": "/lenaabdu/Calculator.git/static/js/runtime-main.3c5fc558.js.map",
+    "static/js/2.6912228e.chunk.js": "/lenaabdu/Calculator.git/static/js/2.6912228e.chunk.js",
+    "static/js/2.6912228e.chunk.js.map": "/lenaabdu/Calculator.git/static/js/2.6912228e.chunk.js.map",
+    "index.html": "/lenaabdu/Calculator.git/index.html",
+    "precache-manifest.c5566f317eb92c18e600bd3b858834bf.js": "/lenaabdu/Calculator.git/precache-manifest.c5566f317eb92c18e600bd3b858834bf.js",
+    "service-worker.js": "/lenaabdu/Calculator.git/service-worker.js",
+    "static/css/main.9be7f010.chunk.css.map": "/lenaabdu/Calculator.git/static/css/main.9be7f010.chunk.css.map",
+    "static/js/2.6912228e.chunk.js.LICENSE.txt": "/lenaabdu/Calculator.git/static/js/2.6912228e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f2fc1ba.js",
+    "static/js/runtime-main.3c5fc558.js",
     "static/js/2.6912228e.chunk.js",
     "static/css/main.9be7f010.chunk.css",
-    "static/js/main.24827e16.chunk.js"
+    "static/js/main.592fdec3.chunk.js"
   ]
 }
