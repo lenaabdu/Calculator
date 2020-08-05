@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lenaabdu/Calculator.git/static/css/main.9be7f010.chunk.css",
-    "main.js": "/lenaabdu/Calculator.git/static/js/main.592fdec3.chunk.js",
-    "main.js.map": "/lenaabdu/Calculator.git/static/js/main.592fdec3.chunk.js.map",
-    "runtime-main.js": "/lenaabdu/Calculator.git/static/js/runtime-main.3c5fc558.js",
-    "runtime-main.js.map": "/lenaabdu/Calculator.git/static/js/runtime-main.3c5fc558.js.map",
-    "static/js/2.6912228e.chunk.js": "/lenaabdu/Calculator.git/static/js/2.6912228e.chunk.js",
-    "static/js/2.6912228e.chunk.js.map": "/lenaabdu/Calculator.git/static/js/2.6912228e.chunk.js.map",
-    "index.html": "/lenaabdu/Calculator.git/index.html",
-    "precache-manifest.c5566f317eb92c18e600bd3b858834bf.js": "/lenaabdu/Calculator.git/precache-manifest.c5566f317eb92c18e600bd3b858834bf.js",
-    "service-worker.js": "/lenaabdu/Calculator.git/service-worker.js",
-    "static/css/main.9be7f010.chunk.css.map": "/lenaabdu/Calculator.git/static/css/main.9be7f010.chunk.css.map",
-    "static/js/2.6912228e.chunk.js.LICENSE.txt": "/lenaabdu/Calculator.git/static/js/2.6912228e.chunk.js.LICENSE.txt"
+    "main.css": "/lenaabdu/Calculator-pro.git/static/css/main.9be7f010.chunk.css",
+    "main.js": "/lenaabdu/Calculator-pro.git/static/js/main.f01670d4.chunk.js",
+    "main.js.map": "/lenaabdu/Calculator-pro.git/static/js/main.f01670d4.chunk.js.map",
+    "runtime-main.js": "/lenaabdu/Calculator-pro.git/static/js/runtime-main.08c6a1af.js",
+    "runtime-main.js.map": "/lenaabdu/Calculator-pro.git/static/js/runtime-main.08c6a1af.js.map",
+    "static/js/2.6912228e.chunk.js": "/lenaabdu/Calculator-pro.git/static/js/2.6912228e.chunk.js",
+    "static/js/2.6912228e.chunk.js.map": "/lenaabdu/Calculator-pro.git/static/js/2.6912228e.chunk.js.map",
+    "index.html": "/lenaabdu/Calculator-pro.git/index.html",
+    "precache-manifest.3c74b2b4834434f62cd0a0ed5ac46d49.js": "/lenaabdu/Calculator-pro.git/precache-manifest.3c74b2b4834434f62cd0a0ed5ac46d49.js",
+    "service-worker.js": "/lenaabdu/Calculator-pro.git/service-worker.js",
+    "static/css/main.9be7f010.chunk.css.map": "/lenaabdu/Calculator-pro.git/static/css/main.9be7f010.chunk.css.map",
+    "static/js/2.6912228e.chunk.js.LICENSE.txt": "/lenaabdu/Calculator-pro.git/static/js/2.6912228e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c5fc558.js",
+    "static/js/runtime-main.08c6a1af.js",
     "static/js/2.6912228e.chunk.js",
     "static/css/main.9be7f010.chunk.css",
-    "static/js/main.592fdec3.chunk.js"
+    "static/js/main.f01670d4.chunk.js"
   ]
 }
