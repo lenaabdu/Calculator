@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lenaabdu/Calculator-pro.git/static/css/main.9be7f010.chunk.css",
-    "main.js": "/lenaabdu/Calculator-pro.git/static/js/main.f01670d4.chunk.js",
-    "main.js.map": "/lenaabdu/Calculator-pro.git/static/js/main.f01670d4.chunk.js.map",
-    "runtime-main.js": "/lenaabdu/Calculator-pro.git/static/js/runtime-main.08c6a1af.js",
-    "runtime-main.js.map": "/lenaabdu/Calculator-pro.git/static/js/runtime-main.08c6a1af.js.map",
-    "static/js/2.6912228e.chunk.js": "/lenaabdu/Calculator-pro.git/static/js/2.6912228e.chunk.js",
-    "static/js/2.6912228e.chunk.js.map": "/lenaabdu/Calculator-pro.git/static/js/2.6912228e.chunk.js.map",
-    "index.html": "/lenaabdu/Calculator-pro.git/index.html",
-    "precache-manifest.3c74b2b4834434f62cd0a0ed5ac46d49.js": "/lenaabdu/Calculator-pro.git/precache-manifest.3c74b2b4834434f62cd0a0ed5ac46d49.js",
-    "service-worker.js": "/lenaabdu/Calculator-pro.git/service-worker.js",
-    "static/css/main.9be7f010.chunk.css.map": "/lenaabdu/Calculator-pro.git/static/css/main.9be7f010.chunk.css.map",
-    "static/js/2.6912228e.chunk.js.LICENSE.txt": "/lenaabdu/Calculator-pro.git/static/js/2.6912228e.chunk.js.LICENSE.txt"
+    "main.css": "/Calculator-pro/static/css/main.9be7f010.chunk.css",
+    "main.js": "/Calculator-pro/static/js/main.79afab07.chunk.js",
+    "main.js.map": "/Calculator-pro/static/js/main.79afab07.chunk.js.map",
+    "runtime-main.js": "/Calculator-pro/static/js/runtime-main.dc5ea7f2.js",
+    "runtime-main.js.map": "/Calculator-pro/static/js/runtime-main.dc5ea7f2.js.map",
+    "static/js/2.6912228e.chunk.js": "/Calculator-pro/static/js/2.6912228e.chunk.js",
+    "static/js/2.6912228e.chunk.js.map": "/Calculator-pro/static/js/2.6912228e.chunk.js.map",
+    "index.html": "/Calculator-pro/index.html",
+    "precache-manifest.240d9e8b9098a943fd5283a362be07a3.js": "/Calculator-pro/precache-manifest.240d9e8b9098a943fd5283a362be07a3.js",
+    "service-worker.js": "/Calculator-pro/service-worker.js",
+    "static/css/main.9be7f010.chunk.css.map": "/Calculator-pro/static/css/main.9be7f010.chunk.css.map",
+    "static/js/2.6912228e.chunk.js.LICENSE.txt": "/Calculator-pro/static/js/2.6912228e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.08c6a1af.js",
+    "static/js/runtime-main.dc5ea7f2.js",
     "static/js/2.6912228e.chunk.js",
     "static/css/main.9be7f010.chunk.css",
-    "static/js/main.f01670d4.chunk.js"
+    "static/js/main.79afab07.chunk.js"
   ]
 }
