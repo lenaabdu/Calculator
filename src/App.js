@@ -65,7 +65,7 @@ class App extends React.Component {
             <>
             <div>
                 <div className="calculator-body">
-                    <h1 className="calculator"> Calculator App </h1>
+                    <h1 className="calculator"> Calculator</h1>
                     <Result result={this.state.result}/>
                     <KeyPad onClick={this.onClick}/>
                 </div>

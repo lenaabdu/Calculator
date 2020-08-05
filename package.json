@@ -2,7 +2,7 @@
     "name": "calculator",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://lenaabdu.github.io/Calculator-App",
+    "homepage": "https://lenaabdu.github.io/Calculator",
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.n4",
         "@testing-library/react": "^9.5.0",
