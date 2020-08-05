@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Calculator-App/static/css/main.9be7f010.chunk.css",
-    "main.js": "/Calculator-App/static/js/main.1f460a8d.chunk.js",
-    "main.js.map": "/Calculator-App/static/js/main.1f460a8d.chunk.js.map",
-    "runtime-main.js": "/Calculator-App/static/js/runtime-main.c1701ce4.js",
-    "runtime-main.js.map": "/Calculator-App/static/js/runtime-main.c1701ce4.js.map",
-    "static/js/2.6912228e.chunk.js": "/Calculator-App/static/js/2.6912228e.chunk.js",
-    "static/js/2.6912228e.chunk.js.map": "/Calculator-App/static/js/2.6912228e.chunk.js.map",
-    "index.html": "/Calculator-App/index.html",
-    "precache-manifest.bd3e95e93203bb7dfc140f471297cb93.js": "/Calculator-App/precache-manifest.bd3e95e93203bb7dfc140f471297cb93.js",
-    "service-worker.js": "/Calculator-App/service-worker.js",
-    "static/css/main.9be7f010.chunk.css.map": "/Calculator-App/static/css/main.9be7f010.chunk.css.map",
-    "static/js/2.6912228e.chunk.js.LICENSE.txt": "/Calculator-App/static/js/2.6912228e.chunk.js.LICENSE.txt"
+    "main.css": "/Calculator/static/css/main.9be7f010.chunk.css",
+    "main.js": "/Calculator/static/js/main.ade3e0dc.chunk.js",
+    "main.js.map": "/Calculator/static/js/main.ade3e0dc.chunk.js.map",
+    "runtime-main.js": "/Calculator/static/js/runtime-main.8483c221.js",
+    "runtime-main.js.map": "/Calculator/static/js/runtime-main.8483c221.js.map",
+    "static/js/2.6912228e.chunk.js": "/Calculator/static/js/2.6912228e.chunk.js",
+    "static/js/2.6912228e.chunk.js.map": "/Calculator/static/js/2.6912228e.chunk.js.map",
+    "index.html": "/Calculator/index.html",
+    "precache-manifest.18b69671b35b99c0427d21485a04edff.js": "/Calculator/precache-manifest.18b69671b35b99c0427d21485a04edff.js",
+    "service-worker.js": "/Calculator/service-worker.js",
+    "static/css/main.9be7f010.chunk.css.map": "/Calculator/static/css/main.9be7f010.chunk.css.map",
+    "static/js/2.6912228e.chunk.js.LICENSE.txt": "/Calculator/static/js/2.6912228e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1701ce4.js",
+    "static/js/runtime-main.8483c221.js",
     "static/js/2.6912228e.chunk.js",
     "static/css/main.9be7f010.chunk.css",
-    "static/js/main.1f460a8d.chunk.js"
+    "static/js/main.ade3e0dc.chunk.js"
   ]
 }
